@@ -1,9 +1,5 @@
 # Bin Packing Solver (MIPS Assembly)
 
-## Authors
-- [@raghadjam](https://github.com/raghadjam)
-- [@may1001sam](https://github.com/may1001sam)
-
 ## Overview
 
 This project is a command-line tool implemented in **MIPS Assembly** that solves the Bin Packing Problem using two heuristic algorithms: **First-Fit (FF)** and **Best-Fit (BF)**. The program reads item weights from a user-provided input file (with values between `0.0` and `1.0`), stores them into memory, and organizes them into bins of size `1.0` according to the selected algorithm. The results are written to an output file.
@@ -28,3 +24,8 @@ This project is a command-line tool implemented in **MIPS Assembly** that solves
 ## Conclusion
 
 This project tackled the classic Bin Packing problem using MIPS assembly language, reinforcing low-level programming skills and algorithmic thinking. By implementing both First-Fit and Best-Fit strategies.
+
+## Authors
+- [@raghadjam](https://github.com/raghadjam)
+- [@may1001sam](https://github.com/may1001sam)
+
